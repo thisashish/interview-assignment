@@ -2,7 +2,7 @@
 
 A RESTful API for task management with user authentication built with Node.js, Express, and MongoDB.
 
-## ⚡ Quick Setup (30 Seconds)
+## ⚡ Quick Setup 
 
 ```bash
 # 1. Clone and install
